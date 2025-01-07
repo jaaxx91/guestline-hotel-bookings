@@ -11,14 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestLineHotelBookings.Doma
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{82B64626-69EC-4C9C-986A-1FEC36AD074C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestLineHotelBookings.Domain.UnitTests", "GuestLineHotelBookings.Domain.UnitTests\GuestLineHotelBookings.Domain.UnitTests.csproj", "{3649BBA7-327B-40A1-96AD-F3832D1467B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestLineHotelBookings.Domain.UnitTests", "GuestLineHotelBookings.Domain.UnitTests\GuestLineHotelBookings.Domain.UnitTests.csproj", "{3649BBA7-327B-40A1-96AD-F3832D1467B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestLineHotelBookings.Infrastructure.UnitTests", "GuestLineHotelBookings.Infrastructure.UnitTests\GuestLineHotelBookings.Infrastructure.UnitTests.csproj", "{13B5654A-8D58-4D3E-B64A-5D7BC75EF944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestLineHotelBookings.Infrastructure.UnitTests", "GuestLineHotelBookings.Infrastructure.UnitTests\GuestLineHotelBookings.Infrastructure.UnitTests.csproj", "{13B5654A-8D58-4D3E-B64A-5D7BC75EF944}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{14168944-221C-41EB-A2CD-6738D9E761C1}"
 	ProjectSection(SolutionItems) = preProject
-		..\.gitignore = ..\.gitignore
-		..\README.md = ..\README.md
+		.gitignore = .gitignore
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
